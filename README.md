@@ -1,2 +1,2 @@
-# python-Basics
-Operations,list,tuple,dictionary
+# Python-Basics
+The basics of programming for an ML enthusiast to start with...
